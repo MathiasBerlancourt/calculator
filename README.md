@@ -24,4 +24,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
- <img align=center src="./assets/img/screenshot.png " alt="screenshot" height=230>
+<img align=center src="./assets/img/screenshot.png " alt="screenshot" height=230>
